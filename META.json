@@ -57,7 +57,7 @@
    "provides" : {
       "Log::Minimal::Object" : {
          "file" : "lib/Log/Minimal/Object.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -71,6 +71,6 @@
          "web" : "https://github.com/moznion/Log-Minimal-Object"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:MOZNION"
 }

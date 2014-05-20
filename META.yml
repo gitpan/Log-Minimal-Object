@@ -27,7 +27,7 @@ no_index:
 provides:
   Log::Minimal::Object:
     file: lib/Log/Minimal/Object.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   Log::Minimal: '0.18'
   perl: '5.008005'
@@ -35,5 +35,5 @@ resources:
   bugtracker: https://github.com/moznion/Log-Minimal-Object/issues
   homepage: https://github.com/moznion/Log-Minimal-Object
   repository: git://github.com/moznion/Log-Minimal-Object.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:MOZNION
